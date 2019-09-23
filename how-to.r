@@ -19,7 +19,7 @@ plot(dataset)
 # Create a subset of the dataset containing only the label and timestamp columns
 barplotSubset <- subset(dataset, select = c("label", "timestamp"))
 # Create a barplot of the subset
-barplot(table(toHistogram))
+barplot(table(barplotSubset))
 
 #############################################
 #    Now, let's have look into some stats   #
