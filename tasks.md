@@ -1,8 +1,6 @@
 # R Statistics Assignment
 
-
-
-##Your Tasks
+## Your Tasks
 
 1. Install R on your machine
 2. Run the demo code (`how-to.r`) in R using the command `r -f how-to.r` or [R-Studio](https://www.rstudio.com/).
@@ -14,8 +12,6 @@
       2. Use the built-in R command
    4. Find the frequency of each type of label from the `label` column -- you **will not** and **should not** need to install a library to do this!
 
-
-
-### You may need to use Google for these!
+### You may need to use Google for these
 
 If so, that's perfectly fine! That's what we do as "professional" programmers, so we understand that not everything is straight forward
